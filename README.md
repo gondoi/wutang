@@ -1,8 +1,13 @@
 wutang
 ======
 
-Generates random Wu-Tang name
+Generates a random Wu-Tang name using http://www.mess.be/inickgenwuname.php 
 
-Uses http://www.mess.be/inickgenwuname.php to get a Wu-Tang name. 
+I needed random but memorable database names, and this was the obvious answer.  
 
-I needed random but memorable database names, and this was the obvious answer.
+
+##### usage:
+```
+$ python wutang.py
+Tha Worlock
+```
